@@ -23,7 +23,7 @@ app.get("/Vision",(req,res)=>{
 
 
 app.get("",(req,res)=>{
-    res.send("<h1>U Are Now Looking About Your Future</h1>")
+    res.send("<h1>Now U Are Looking About Your Future</h1>")
 })
 
 
